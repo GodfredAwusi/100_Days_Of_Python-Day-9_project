@@ -15,4 +15,4 @@
 ```
 
 ## Function of the program
-This program collects the names and bids of different people. The program ask for each bidder's name and their bid individually so they do not see each others bid. 
+This program collects the names and bids of different people. The program ask for each bidder's name and their bid individually so they do not see each others bid. After everyone has provided their bid then the program will show the winner and the bid amount
